@@ -400,7 +400,7 @@ class Ui_bgWidget(object):
                     attendance = [str(ID), '', bb, '', str(date), '', str(timeStamp)]
 
                 else:
-                    Id = 'AV' # Unknown Name as the Recognizer doesn't recognize the user based on input images fed to it.
+                    Id = 'Unknown' # Unknown Name as the Recognizer doesn't recognize the user based on input images fed to it.
                     bb = str(Id)
                 cv2.putText(im, str(bb), (x, y + h), font, 1, (255, 255, 255), 2)
             cv2.imshow('Taking Attendance', im)
