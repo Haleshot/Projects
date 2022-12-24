@@ -49,3 +49,12 @@ DESC payment;
 
 
 ![image](https://user-images.githubusercontent.com/57552973/209421173-f2453cc5-9d0f-40b2-95d5-e4ceb4917ea0.png)
+
+
+
+
+
+# Entity Relationship Diagram (needs to be updatewd to latest version)
+
+![image](https://user-images.githubusercontent.com/57552973/209421185-3885ed37-5ee9-4246-a15e-8cc76f49ea4a.png)
+
