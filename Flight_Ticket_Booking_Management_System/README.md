@@ -11,6 +11,7 @@ Rajeev is a business advisor from Mumbai. He owns a firm that takes tasks relate
 # Components of the Database Design
 
 Description of all entities along with their attributes here along with the primary keys for each entity. 
+
 Description of all relationships among various entities along with the specification of the cardinality and participation for all relationships (present in ERD and Relational Schema). 
 
 DESC payment;
