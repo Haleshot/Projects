@@ -58,3 +58,29 @@ DESC payment;
 
 ![image](https://user-images.githubusercontent.com/57552973/209421185-3885ed37-5ee9-4246-a15e-8cc76f49ea4a.png)
 
+
+
+# Relational Model (needs to be updatewd to latest version)
+
+
+![image](https://user-images.githubusercontent.com/57552973/209421204-84efe978-1ab4-4766-8661-87ffc3528041.png)
+
+
+
+# Normalization 
+
+![image](https://user-images.githubusercontent.com/57552973/209421213-d47ee8d4-8094-4fc8-9300-b264b950985e.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/57552973/209421217-e957867f-4622-46b5-bcb0-41bd364d6c2c.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/57552973/209421219-0881e7c7-fb31-437e-b4de-4ec2cf854a93.png)
+
+
+
+![image](https://user-images.githubusercontent.com/57552973/209421222-7b23b106-50a1-41b8-8d34-b148b2033482.png)
