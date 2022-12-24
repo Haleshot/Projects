@@ -84,3 +84,15 @@ DESC payment;
 
 
 ![image](https://user-images.githubusercontent.com/57552973/209421222-7b23b106-50a1-41b8-8d34-b148b2033482.png)
+
+
+# Learning from the Project 
+
+![image](https://user-images.githubusercontent.com/57552973/209421286-ef8ab483-e3e0-455c-9029-e19910eca44b.png)
+
+
+# Challenges Faced
+
+
+![image](https://user-images.githubusercontent.com/57552973/209421294-443493fe-5c0a-483d-9674-ab614c1b3b54.png)
+
