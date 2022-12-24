@@ -8,10 +8,44 @@ Rajeev is a business advisor from Mumbai. He owns a firm that takes tasks relate
 
 
 
-# Components of Database Design
+# Components of the Database Design
 
 Description of all entities along with their attributes here along with the primary keys for each entity. 
 Description of all relationships among various entities along with the specification of the cardinality and participation for all relationships (present in ERD and Relational Schema). 
 
 DESC payment;
 
+![image](https://user-images.githubusercontent.com/57552973/209421134-a697cee7-2f66-4ac9-92c5-75f3e1fed289.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/57552973/209421140-bb437b5b-6136-460c-bbf6-4ef833094841.png)
+
+
+
+![image](https://user-images.githubusercontent.com/57552973/209421148-75a19dd3-cfae-4fa1-bf6b-8c295cd70a6a.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/57552973/209421152-574e15f2-e9b9-48b3-91cf-d5fb55266c53.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/57552973/209421163-234b315e-cc24-467f-9450-f2bc52209379.png)
+
+
+
+![image](https://user-images.githubusercontent.com/57552973/209421165-63d749a6-f40f-42c8-961e-9de3c3ca9d7a.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/57552973/209421167-0872f91a-1ec8-482a-b2a6-337b593701f8.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/57552973/209421173-f2453cc5-9d0f-40b2-95d5-e4ceb4917ea0.png)
