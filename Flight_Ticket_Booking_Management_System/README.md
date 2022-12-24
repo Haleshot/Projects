@@ -6,3 +6,12 @@ In a world where tourism is on the rise and is a major addition to a country’s
 
 Rajeev is a business advisor from Mumbai. He owns a firm that takes tasks related to business setup, financial plans, business expansion procedures, and many other business tasks. Since this job requires him to travel frequently, he would expect to use a platform that requires the least booking efforts is exactly what our flight booking platform, FlyHigh is designed for. Rajeev has to login/register, for login it takes 1 click and registering takes 3 clicks. This now directs him to the main booking page where he has to enter his flight details (origin, destination, time, company). After you click on the “Find Flights” it searches the companies database for available flights on that date and displays all the available option, he should note down the flight ID through which he wished to travel. He is asked if he wants to update his information, if he clicks next, we proceed to confirm flight details page where you must enter the flight id and load the details of that flight. After entering that he proceeds to summary page which asks additional questions and directs him to the payment page where he enters his payment details and confirms his booking. If he wishes to cancel his booking, he can do so with one effortless click. 
 
+
+
+# Components of Database Design
+
+Description of all entities along with their attributes here along with the primary keys for each entity. 
+Description of all relationships among various entities along with the specification of the cardinality and participation for all relationships (present in ERD and Relational Schema). 
+
+DESC payment;
+
