@@ -96,3 +96,10 @@ DESC payment;
 
 ![image](https://user-images.githubusercontent.com/57552973/209421294-443493fe-5c0a-483d-9674-ab614c1b3b54.png)
 
+
+
+# Conclusion
+Implemented Flight Ticket Booking system which helps a customer in booking flights as per their 	requirement.  
+Learnt integration of front end (PyQt5) with backend (Database); enhanced coding in Python;improvised and implemented concepts learnt in the DBMS course in the project which led to better understanding of the queries in MySQL. 
+
+Understood the importance of various applications that helps us in our day-to-day life and the 		working at front end as well as the back end of these applications. 
