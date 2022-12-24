@@ -54,13 +54,15 @@ DESC payment;
 
 
 
-# Entity Relationship Diagram (needs to be updatewd to latest version)
+# Entity Relationship Diagram 
+Note - needs to be updated to latest version.
 
 ![image](https://user-images.githubusercontent.com/57552973/209421185-3885ed37-5ee9-4246-a15e-8cc76f49ea4a.png)
 
 
 
-# Relational Model (needs to be updatewd to latest version)
+# Relational Model 
+Note - needs to be updated to latest version.
 
 
 ![image](https://user-images.githubusercontent.com/57552973/209421204-84efe978-1ab4-4766-8661-87ffc3528041.png)
