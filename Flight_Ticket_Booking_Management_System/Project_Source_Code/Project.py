@@ -306,8 +306,8 @@ class OTP_Screen(QDialog):
         else:
 
         
-            account_sid = 'AC57dc85c6338df700cdb094d3b3b707f3'
-            auth_token = 'bdc2d0df15eb75bf9c6ca329f6a016ff'
+            account_sid = 'my account_sid'
+            auth_token = 'my auth_token'
             client = Client(account_sid, auth_token)
 
             # WORK ON SENDING OTP TO PHONE ENTERED BY USER.
@@ -318,7 +318,7 @@ class OTP_Screen(QDialog):
             print(OTP_Generated)
             message = client.messages.create(
                                 body="Thank you for choosing our Flight Management System! Your OTP is : "+ str(OTP_Generated),
-                                from_='+18329798726',
+                                from_='+my_number',
                                 to=Customer_Phone_Number
                             )
             self.Error_Popup_Message_1.setText("")
