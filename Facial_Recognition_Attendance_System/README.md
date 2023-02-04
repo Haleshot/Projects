@@ -76,7 +76,29 @@
 
 # Glance Of GUI For Attendance System
 
-image.png
+![image](https://user-images.githubusercontent.com/57552973/216761491-e8458dfd-9586-4a48-97b2-7c7dfad07fc0.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/57552973/216761495-e6d880ba-158b-47d8-9abe-1180db866a70.png)
+
+
+
+![image](https://user-images.githubusercontent.com/57552973/216761498-c94007e7-db56-4d4c-a73e-c8a94f0df1c3.png)
+
+
+
+![image](https://user-images.githubusercontent.com/57552973/216761505-7a927534-debd-4854-9753-ffd437df679a.png)
+
+
+
+![image](https://user-images.githubusercontent.com/57552973/216761509-6fa47692-cfdf-4e28-8ea4-7fc2016c1dda.png)
+
+
+
+![image](https://user-images.githubusercontent.com/57552973/216761512-e4ab4ed9-dc32-4c60-80cd-5274d736f80e.png)
+
 
 # ![](media/1683b9233d250a517933505282e7a5a6.jpeg)System Architecture
 
