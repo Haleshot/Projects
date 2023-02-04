@@ -8,7 +8,7 @@ Intelligent Systems-1
 
 **By:**
 
-**Srihari Thyagarajan (I066) Avneesh Tilwani (I067) Neil Shah (I077)**
+**Srihari Thyagarajan (Haleshot)**
 
 # ![](media/1683b9233d250a517933505282e7a5a6.jpeg)Aim Of This Project
 
