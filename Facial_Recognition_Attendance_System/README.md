@@ -1,7 +1,5 @@
 ![](media/1683b9233d250a517933505282e7a5a6.jpeg)
 
-Intelligent Systems-1
-
 **Project Work**
 
 **Topic : Attendance System using Facial Recognition**
