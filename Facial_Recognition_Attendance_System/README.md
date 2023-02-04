@@ -4,9 +4,7 @@
 
 **Topic : Attendance System using Facial Recognition**
 
-**By:**
-
-**Srihari Thyagarajan (I066)**
+**By : Srihari Thyagarajan (Haleshot)**
 
 # ![](media/1683b9233d250a517933505282e7a5a6.jpeg)Aim Of This Project
 
@@ -78,17 +76,7 @@
 
 # Glance Of GUI For Attendance System
 
-,,.-
-
-i] MainWindow
-
-□ X. .
-
-..,
-
-![](media/9dd954ce37794a7eaea147c43ceb6405.jpeg)
-
-Current Users Tilme: 8/9/20.22-,21:32:is:
+image.png
 
 # ![](media/1683b9233d250a517933505282e7a5a6.jpeg)System Architecture
 
