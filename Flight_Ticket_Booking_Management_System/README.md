@@ -63,7 +63,7 @@ Note - needs to be updated to latest version.
 
 
 # Relational Model 
-Note - needs to be updated to latest version.
+## Note - needs to be updated to latest version.
 
 
 ![image](https://user-images.githubusercontent.com/57552973/209421204-84efe978-1ab4-4766-8661-87ffc3528041.png)
