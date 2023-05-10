@@ -190,15 +190,40 @@ in close proximity or by projecting a negative image onto the paper.
   
   ![image](https://github.com/Haleshot/Projects/assets/57552973/6ddca68e-e229-441f-8915-858e52232082)
 
-
-
-
-
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 
+
+<!-- Thresholding -->
+<h2 id="Thresholding"> :cloud: Thresholding </h2>
+
+<p align="justify"> 
+Thresholding:
+• Thresholding is a type of image segmentation, where we change the pixels of an image to 
+make the image easier to analyze.
+  
+• In thresholding, we convert an image from colour or grayscale into a binary image, i.e., one 
+that is simply black and white.
+  
+• Image thresholding is a simple, yet effective, way of partitioning an image into a foreground 
+and background.
+  
+• We use two types of thresholding i.e. with and without background.
+
+
+• Output:
+    Thresholding with background:
+        ![image](https://github.com/Haleshot/Projects/assets/57552973/5d894d79-0800-4ed3-a44b-ce07cba33eb1)
+
+    Thresholding without background:
+        ![image](https://github.com/Haleshot/Projects/assets/57552973/20470a5f-1601-4dd4-8bc4-cd1e0963bde9)
+
+
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
