@@ -19,7 +19,7 @@
   </ol>
 </details>
 
-[-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- Introduction -->
 <h2 id="Introduction"> :pencil: Introduction </h2>
