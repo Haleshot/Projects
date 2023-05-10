@@ -104,7 +104,7 @@ determine the effectiveness of each technique in edge detection.
 
 
 <!-- Down Sampling -->
-<h2 id="Down Sampling"> :cloud: Down Sampling </h2>
+<h2 id="Down Sampling"> :small_orange_diamond: Down Sampling </h2>
 
 <p align="justify"> 
   Down Sampling:
@@ -137,7 +137,7 @@ on the sampling frequency. Due to this, resolution and size of the image decreas
 
 
 <!-- Up Sampling -->
-<h2 id="Up Sampling"> :cloud: Up Sampling </h2>
+<h2 id="Up Sampling"> :small_orange_diamond: Up Sampling </h2>
 
 <p align="justify"> 
   Up Sampling:
@@ -170,7 +170,7 @@ procedure in a mult-irate digital signal processing system.
 
 
 <!-- Negative of an Image -->
-<h2 id="Negative of an Image"> :cloud: Negative of an Image </h2>
+<h2 id="Negative of an Image"> :small_orange_diamond: Negative of an Image </h2>
 
 <p align="justify"> 
 Negative of an Image:
@@ -198,7 +198,7 @@ in close proximity or by projecting a negative image onto the paper.
 
 
 <!-- Thresholding -->
-<h2 id="Thresholding"> :cloud: Thresholding </h2>
+<h2 id="Thresholding"> :small_orange_diamond: Thresholding </h2>
 
 <p align="justify"> 
 Thresholding:
@@ -230,7 +230,7 @@ and background.
 
 
 <!-- Blurring -->
-<h2 id="Blurring"> :cloud: Blurring </h2>
+<h2 id="Blurring"> :small_orange_diamond: Blurring </h2>
 
 <p align="justify"> 
 Blurring an image makes the image look less sharp. 
