@@ -1,3 +1,1 @@
-<p align="center"> 
-</p>
 <h1 align="center"> Image Processing Project </h1>
