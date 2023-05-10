@@ -333,5 +333,62 @@ Facial feature detection is a computer vision technique that identifies and loca
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
+<!-- Laplace Edge Detection -->
+<h2 id="Laplacian Filter"> :small_orange_diamond: Laplacian Filter </h2>
 
+<p align="justify"> 
+Laplacian Filter:
+  
+• A Laplacian filter is an edge detector used to compute the second derivatives of an image, 
+measuring the rate at which the first derivatives change. This determines if a change in 
+adjacent pixel values is from an edge or continuous progression.
+  
+• Laplacian filter kernels usually contain negative values in a cross pattern, centered within the 
+array. The corners are either zero or positive values. The center value can be either negative or 
+positive.
+  
+
+• Output:
+  
+  ![image](https://github.com/Haleshot/Projects/assets/57552973/d200434b-1fe1-4c32-8627-e324e872a690)
+
+
+
+
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+
+<!-- Conclusion -->
+<h2 id="Conclusion"> :small_orange_diamond: Conclusion </h2>
+
+<p align="justify"> 
+Conclusion:
+  
+• In conclusion, the project demonstrated the effectiveness of edge detection techniques using the 
+Laplacian filter, LPF, HPF, and thresholding.
+  
+  • The results showed that the Laplacian filter was the most 
+    effective technique for edge detection, with high accuracy in detecting edges in various test images.
+    LPF and HPF were also effective in enhancing the edges and removing noise, respectively, which 
+    resulted in more accurate edge detection using the Laplacian filter. Thresholding was found to be less 
+    effective in detecting edges, but was still useful in binarizing the image for further analysis.
+  
+  • The project also highlighted the importance of image pre-processing in edge detection, as the quality 
+    of the input image significantly impacted the accuracy of the results. The application of preprocessing techniques such as median filtering and histogram equalization was found to be critical in improving the quality of the images.
+
+  • Overall, the project provided valuable insights into the practical applications of edge detection 
+    techniques in image processing and analysis. The results demonstrate the potential of these techniques 
+    for a range of applications, from object recognition to feature detection. The limitations and 
+    challenges of these techniques were also discussed, providing insights for future research and 
+    development in this area.
+
+
+
+
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
