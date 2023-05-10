@@ -338,6 +338,7 @@ Facial feature detection is a computer vision technique that identifies and loca
 
 <p align="justify"> 
 Laplacian Filter:
+  
 • A Laplacian filter is an edge detector used to compute the second derivatives of an image, 
 measuring the rate at which the first derivatives change. This determines if a change in 
 adjacent pixel values is from an edge or continuous progression.
