@@ -376,10 +376,10 @@ Laplacian filter, LPF, HPF, and thresholding.
     resulted in more accurate edge detection using the Laplacian filter. Thresholding was found to be less 
     effective in detecting edges, but was still useful in binarizing the image for further analysis.
   
-    • The project also highlighted the importance of image pre-processing in edge detection, as the quality 
+  • The project also highlighted the importance of image pre-processing in edge detection, as the quality 
     of the input image significantly impacted the accuracy of the results. The application of preprocessing techniques such as median filtering and histogram equalization was found to be critical in improving the quality of the images.
 
-    • Overall, the project provided valuable insights into the practical applications of edge detection 
+  • Overall, the project provided valuable insights into the practical applications of edge detection 
     techniques in image processing and analysis. The results demonstrate the potential of these techniques 
     for a range of applications, from object recognition to feature detection. The limitations and 
     challenges of these techniques were also discussed, providing insights for future research and 
