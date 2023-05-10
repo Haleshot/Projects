@@ -67,3 +67,35 @@ The distinction between the different subcategories can be seen through the empl
 variety of user-defined functions as well as built-in functions (LPF, Edge detection, etc).
 
 </p>
+
+
+<!-- Methodology -->
+<h2 id="Methodology"> :cloud: Methodology </h2>
+
+<p align="justify"> 
+  The methodology for this project involved several steps, including image acquisition, image preprocessing, edge detection using the Laplacian filter, LPF, HPF, and thresholding, and analysis of the 
+results.
+The first step in the methodology was to acquire test images to be used in the project. These images 
+were chosen based on their complexity and variability to test the effectiveness of the different edge 
+detection techniques.
+  
+The second step was image pre-processing, which involved applying noise reduction techniques such 
+as median filtering and histogram equalization to enhance the quality of the images. This was done to 
+ensure that the edge detection techniques were applied to clear and high-quality images.
+  
+The third step was edge detection using the Laplacian filter, LPF, HPF, and thresholding techniques. 
+The Laplacian filter was applied to detect edges by finding changes in the intensity of the image, 
+while LPF and HPF were used to remove noise and enhance the edges. Thresholding was used to 
+binarize the image into black and white pixels based on a certain threshold value.
+  
+Finally, the results were analyzed and compared to determine the most effective approach for edge 
+detection in different scenarios. This involved visually comparing the different edge detection 
+techniques and evaluating their accuracy in detecting edges.
+  
+Overall, the methodology for this project was a combination of image acquisition, pre-processing, 
+edge detection using the Laplacian filter, LPF, HPF, and thresholding, and analysis of the results to 
+determine the effectiveness of each technique in edge detection.
+
+
+</p>
+
