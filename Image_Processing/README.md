@@ -258,7 +258,7 @@ to another smooth rather than sudden.
 
 
 <!-- LPF -->
-<h2 id="LPF"> :small_orange_diamond: LPF </h2>
+<h2 id="Low Pass Filtering (LPF)"> :small_orange_diamond: Low Pass Filtering (LPF) </h2>
 
 <p align="justify"> 
 Low Pass Filtering (LPF):
