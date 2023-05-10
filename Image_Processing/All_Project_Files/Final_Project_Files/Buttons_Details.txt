@@ -1,6 +1,0 @@
-Details regarding the buttons windows:
-1) Downsampling/Upsampling
-2) Negative Image
-3) Thresholding with and without background
-4) Blurring the Image.
-5) LPF
