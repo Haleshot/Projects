@@ -333,5 +333,31 @@ Facial feature detection is a computer vision technique that identifies and loca
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
+<!-- Laplace Edge Detection -->
+<h2 id="Laplacian Filter"> :small_orange_diamond: Laplacian Filter </h2>
+
+<p align="justify"> 
+Laplacian Filter:
+• A Laplacian filter is an edge detector used to compute the second derivatives of an image, 
+measuring the rate at which the first derivatives change. This determines if a change in 
+adjacent pixel values is from an edge or continuous progression.
+  
+• Laplacian filter kernels usually contain negative values in a cross pattern, centered within the 
+array. The corners are either zero or positive values. The center value can be either negative or 
+positive.
+  
+
+• Output:
+  
+  ![image](https://github.com/Haleshot/Projects/assets/57552973/d200434b-1fe1-4c32-8627-e324e872a690)
+
+
+
+
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
 
 
