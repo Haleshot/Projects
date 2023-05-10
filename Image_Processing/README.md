@@ -282,7 +282,7 @@ Low Pass Filtering (LPF):
 
 
 <!-- Gaussian Noise -->
-<h2 id=" Gaussian Noise"> :small_orange_diamond: Gaussian Noise </h2>
+<h2 id="Gaussian Noise"> :small_orange_diamond: Gaussian Noise </h2>
 
 <p align="justify"> 
 Gaussian Noise:
