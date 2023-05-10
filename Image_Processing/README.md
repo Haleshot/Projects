@@ -13,6 +13,7 @@
     <li><a href="#Blurring"> ➤ Blurring </a></li>
     <li><a href="#Low Pass Filtering (LPF)"> ➤ Low Pass Filtering (LPF) </a></li>
     <li><a href="#Gaussian Noise"> ➤ Gaussian Noise </a></li>
+    <li><a href="#Facial Feature Detection"> ➤ Facial Feature Detection </a></li>
     <li><a href="#Laplacian Filter"> ➤ Laplacian Filter </a></li>
     <li><a href="#Conclusion"> ➤ Conclusion </a></li>
   </ol>
@@ -282,10 +283,10 @@ Low Pass Filtering (LPF):
 
 
 <!-- Gaussian Noise -->
-<h2 id=" Gaussian Noise"> :small_orange_diamond:  Gaussian Noise </h2>
+<h2 id="Gaussian Noise"> :small_orange_diamond: Gaussian Noise </h2>
 
 <p align="justify"> 
-Gaussian Filter:
+Gaussian Noise:
 • A Gaussian Filter is a low pass filter used for reducing noise (high frequency components) 
 and blurring regions of an image.
   
@@ -301,4 +302,36 @@ is passed through each pixel of the Region of Interest to get the desired effect
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+
+
+<!-- Facial Feature Detection -->
+<h2 id="Facial Feature Detection"> :small_orange_diamond: Facial Feature Detection </h2>
+
+<p align="justify"> 
+Facial Feature Detection:
+  
+Facial feature detection is a computer vision technique that identifies and locates the key features of a human face in an image, such as eyes, nose, mouth, eyebrows, etc. It can be used for various applications such as face recognition, emotion analysis, face editing, and more. This python program performs facial feature detection using the following steps:
+  
+- Load an image file as input
+- Convert the image to grayscale
+- Detect faces in the image using a pre-trained Haar cascade classifier
+- For each detected face, draw a bounding box around it.
+- Detects facial features in each face using a pre-trained shape predictor model (eye haarcasacade classifier).
+- Display the output image with the detected faces and facial features highlighted.
+  
+
+• Output:
+  
+  ![image](https://github.com/Haleshot/Projects/assets/57552973/eee541da-74ec-4fdc-801b-06fea5cb5166)
+
+
+
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+
 
