@@ -131,3 +131,43 @@ on the sampling frequency. Due to this, resolution and size of the image decreas
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+
+
+
+<!-- Up Sampling -->
+<h2 id="Up Sampling"> :cloud: Up Sampling </h2>
+
+<p align="justify"> 
+  Up Sampling:
+• Up sampling, expansion, and interpolation are terminologies used to describe the resampling 
+procedure in a mult-irate digital signal processing system.
+  
+• Up sampling can refer to either expansion or the full expansion and filtering process 
+(interpolation).
+  
+• Up-sampling technique increases the resolution as well as the size of the image.
+• Some commonly used up-sampling techniques are:
+  
+  · Nearest neighbour interpolation
+  · Bilinear interpolation
+  · Cubic interpolation
+
+• Output:
+  
+  ![image](https://github.com/Haleshot/Projects/assets/57552973/ef7a1644-8d8f-4642-a0ee-725156ccd550)
+
+
+
+
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+
+
+
+
+
