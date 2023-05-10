@@ -20,7 +20,6 @@
 </details>
 
 <div class="rainbow-line"></div>
-<div class="rainbow-line"></div>
 <style>
   .rainbow-line {
     height: 5px; /* Adjust the height of the rainbow line as per your preference */
@@ -28,7 +27,7 @@
   }
 </style>
 
-<!--![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png) --->
+[-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- Introduction -->
 <h2 id="Introduction"> :pencil: Introduction </h2>
