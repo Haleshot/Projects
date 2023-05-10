@@ -30,16 +30,20 @@ within an image. This process can be used to extract useful information from an 
 recognition or feature detection. One of the most common techniques for edge detection is the 
 Laplacian filter, which is a second-order derivative filter used to detect changes in the intensity of the 
 image.
+  
 In this project, we will explore edge detection using the Laplacian filter and other image processing 
 techniques such as low pass filtering (LPF), high pass filtering (HPF), and thresholding. LPF and HPF 
 are commonly used to enhance images and remove noise, while thresholding is used to binarize an 
 image into black and white pixels based on a certain threshold value.
+  
 The project will involve implementing these techniques using MATLAB and applying them to various 
 test images to demonstrate their effectiveness in edge detection. The results will be analyzed and 
 compared to determine the most effective approach for edge detection in different scenarios.
 The objectives of this project are to gain a deeper understanding of image processing techniques, 
 specifically edge detection using the Laplacian filter, LPF, HPF, and thresholding, and to demonstrate 
-the practical applications of these techniques in real-world scenarios. Through this project, we hope to 
+the practical applications of these techniques in real-world scenarios. 
+  
+  Through this project, we hope to 
 enhance our skills in image processing and analysis, as well as gain insights into the challenges and 
 limitations of edge detection techniques.
 
