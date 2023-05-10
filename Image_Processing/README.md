@@ -280,3 +280,25 @@ Low Pass Filtering (LPF):
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+
+<!-- Gaussian Noise -->
+<h2 id=" Gaussian Noise"> :small_orange_diamond:  Gaussian Noise </h2>
+
+<p align="justify"> 
+Gaussian Filter:
+• A Gaussian Filter is a low pass filter used for reducing noise (high frequency components) 
+and blurring regions of an image.
+  
+• The filter is implemented as an Odd sized Symmetric Kernel (DIP version of a Matrix) which 
+is passed through each pixel of the Region of Interest to get the desired effect.
+  
+
+• Output:
+  
+  ![image](https://github.com/Haleshot/Projects/assets/57552973/2877adbe-2b77-4092-bf7f-17e45edfd45b)
+
+
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
