@@ -215,6 +215,7 @@ and background.
 
 
 • Output:
+  
   Thresholding with background:
         ![image](https://github.com/Haleshot/Projects/assets/57552973/5d894d79-0800-4ed3-a44b-ce07cba33eb1)
 
@@ -226,4 +227,30 @@ and background.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+
+
+<!-- Blurring -->
+<h2 id="Blurring"> :cloud: Blurring </h2>
+
+<p align="justify"> 
+Blurring an image makes the image look less sharp. 
+• This can be done by smoothing the color transition between the pixels.
+  
+• When we blur an image, we make the colour transition from one side of an edge in the image 
+to another smooth rather than sudden. 
+  
+• The effect is to average out rapid changes in pixel intensity.
+  
+• We subtract the maximum pixel value(255) from the given image's matrix.
+
+
+
+• Output:
+  
+  ![image](https://github.com/Haleshot/Projects/assets/57552973/3b5820f7-efdf-42ba-acc9-45fff8bc9e3d)
+
+
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
