@@ -50,3 +50,20 @@ limitations of edge detection techniques.
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<!-- Objectives and Scope -->
+<h2 id="Objectives and Scope"> :cloud: Objectives and Scope</h2>
+
+<p align="justify"> 
+  Utilizing image processing techniques such as low-pass filtering (LPF), blurring, and other such 
+techniques to reduce noise and improve the overall quality of the images, as well as using edge 
+detection to define boundaries for the images' borders.
+  
+A number of different methods, including thresholding and edge detection, are utilised in the 
+process of segmenting and extracting information from images.
+  
+The distinction between the different subcategories can be seen through the employment of a 
+variety of user-defined functions as well as built-in functions (LPF, Edge detection, etc).
+
+</p>
