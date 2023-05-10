@@ -4,8 +4,8 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#Introduction"> ➤ Introduction </a></li>
-    <li><a href="#Objectives and scope"> ➤  Objectives and scope </a></li>
-    <li><a href="#Overview of methodology"> ➤  Overview of methodology </a></li>
+    <li><a href="#Objectives and scope"> ➤ Objectives and scope </a></li>
+    <li><a href="#Methodology"> ➤ Methodology </a></li>
     <li><a href="#Overview of edge detection techniques"> ➤ Overview of edge detection techniques</a></li>
     <li><a href="#Down Sampling"> ➤ Down Sampling </a></li>
     <li><a href="#Up Sampling"> ➤ Up Sampling </a></li>
