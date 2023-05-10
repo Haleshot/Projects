@@ -169,5 +169,36 @@ procedure in a mult-irate digital signal processing system.
 
 
 
+<!-- Negative of an Image -->
+<h2 id="Negative of an Image"> :cloud: Negative of an Image </h2>
+
+<p align="justify"> 
+Negative of an Image:
+• Photographic negative in which the light areas of the subject are reproduced as dark and the 
+dark areas as light.
+  
+• Negatives typically take the form of a transparent material, such glass or plastic.
+  
+• These tones are reversed and result in a positive photographic print when sensitised paper is 
+exposed through a negative, which can be achieved either by placing the negative and paper 
+in close proximity or by projecting a negative image onto the paper.
+  
+• s = (L-1) – r , where L= number of gray levels
+
+
+• Output:
+  
+  ![image](https://github.com/Haleshot/Projects/assets/57552973/6ddca68e-e229-441f-8915-858e52232082)
+
+
+
+
+
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+
 
 
