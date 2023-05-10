@@ -19,7 +19,7 @@ from PyQt5.QtWidgets import QDialog, QApplication, QWidget, QStackedWidget, QCom
 from PyQt5.QtGui import QPixmap
 from PyQt5.QtWidgets import QFileDialog
 import cv2
-
+import numpy as np
 
 class Ui_Background(object):
     def setupUi(self, Background):
@@ -69,7 +69,8 @@ class Ui_Background(object):
         file_name, _ = QFileDialog.getOpenFileName(None, 'Open Image File', r"<Default dir>", "Image files (*.jpg *.jpeg *.gif *.png)")
         self.label.setPixmap(QPixmap(file_name))
         img = cv2.imread(file_name)
-        negative_img = 255 - img
+        maximum = np.amax(img)
+        negative_img = maximum - img
         cv2.imwrite(r"Image_Processing\All_Project_Files\Final_Project_Files\Cam_Media\Negative_Images\Negative_Image.png", negative_img)
         Negative_File_Name = r"Image_Processing\All_Project_Files\Final_Project_Files\Cam_Media\Negative_Images\Negative_Image.png"
         self.label_2.setPixmap(QPixmap(Negative_File_Name))
