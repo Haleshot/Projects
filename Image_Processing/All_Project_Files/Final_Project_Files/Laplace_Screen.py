@@ -102,8 +102,8 @@ class Ui_Dialog_8(object):
         # Apply the Laplacian filter to the image
         filtered_img = self.laplacian_filter(img)
 
-        cv2.imwrite(r"F:\New_Laptop_Documents\NMIMS_College_Docs\2nd_Year\2nd Semester\IT\Project\Cam_Media\Laplacian_Image\Laplacian_Image.png", filtered_img)
-        Laplacian_File_Name = r"F:\New_Laptop_Documents\NMIMS_College_Docs\2nd_Year\2nd Semester\IT\Project\Cam_Media\Laplacian_Image\Laplacian_Image"
+        cv2.imwrite(r"Image_Processing\All_Project_Files\Final_Project_Files\Cam_Media\Laplacian_Images\Laplacian_Image.png", filtered_img)
+        Laplacian_File_Name = r"Image_Processing\All_Project_Files\Final_Project_Files\Cam_Media\Laplacian_Images"
         self.label_2.setPixmap(QPixmap(Laplacian_File_Name))
 
 
