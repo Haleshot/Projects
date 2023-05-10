@@ -73,8 +73,8 @@ class Ui_Dialog_7(object):
         
         
         # Load the classifier
-        face_cascade = cv2.CascadeClassifier("All_Project_Files\haarcascade_frontalface_default.xml")
-        eye_cascade = cv2.CascadeClassifier("All_Project_Files\haarcascade_eye.xml")
+        face_cascade = cv2.CascadeClassifier("Image_Processing\All_Project_Files\haarcascade_frontalface_default.xml")
+        eye_cascade = cv2.CascadeClassifier("Image_Processing\All_Project_Files\haarcascade_eye.xml")
 
 
         self.label_5.setText("")
@@ -117,8 +117,9 @@ class Ui_Dialog_7(object):
         print("The new size of the image is ", m, " x ", n)
 
         
-        cv2.imwrite(r"All_Project_Files\Final_Project_Files\Cam_Media\Face_Detection_Images\Face_Detected_Image.png", Face_Detected_img)
-        Face_Detected_Image_File_Name = r"All_Project_Files\Final_Project_Files\Cam_Media\Face_Detection_Images\Face_Detected_Image.png"
+        cv2.imwrite(r"Image_Processing\All_Project_Files\Final_Project_Files\Cam_Media\Face_Detection_Images\Face_Detected_Image.png", Face_Detected_img)
+        Face_Detected_Image_File_Name = r"Image_Processing\All_Project_Files\Final_Project_Files\Cam_Media\Face_Detection_Images\Face_Detected_Image.png"
+        
         self.label_2.setPixmap(QPixmap(Face_Detected_Image_File_Name))
 
 
