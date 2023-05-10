@@ -20,6 +20,7 @@
 </details>
 
 <div class="rainbow-line"></div>
+<div class="rainbow-line"></div>
 <style>
   .rainbow-line {
     height: 5px; /* Adjust the height of the rainbow line as per your preference */
