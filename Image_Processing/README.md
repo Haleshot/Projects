@@ -68,6 +68,8 @@ variety of user-defined functions as well as built-in functions (LPF, Edge detec
 
 </p>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 
 <!-- Methodology -->
 <h2 id="Methodology"> :cloud: Methodology </h2>
@@ -99,3 +101,4 @@ determine the effectiveness of each technique in edge detection.
 
 </p>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
