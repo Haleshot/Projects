@@ -19,7 +19,15 @@
   </ol>
 </details>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<div class="rainbow-line"></div>
+<style>
+  .rainbow-line {
+    height: 5px; /* Adjust the height of the rainbow line as per your preference */
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+  }
+</style>
+
+<!--![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png) --->
 
 <!-- Introduction -->
 <h2 id="Introduction"> :pencil: Introduction </h2>
