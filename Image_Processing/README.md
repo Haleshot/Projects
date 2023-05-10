@@ -254,3 +254,29 @@ to another smooth rather than sudden.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+
+
+
+<!-- LPF -->
+<h2 id="LPF"> :small_orange_diamond: LPF </h2>
+
+<p align="justify"> 
+Low Pass Filtering (LPF):
+• It is also known as a smoothing filter. It removes the high frequency content from the image. 
+  
+• Example of Low pass averaging filter mask is as shown:
+  ![image](https://github.com/Haleshot/Projects/assets/57552973/68c8097f-1528-4471-87cf-c87e13f720f7)
+
+
+
+
+• Output:
+  
+  ![image](https://github.com/Haleshot/Projects/assets/57552973/3317e1ee-b827-45e1-b71f-349d4b5e29cf)
+
+
+
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
