@@ -215,12 +215,11 @@ and background.
 
 
 • Output:
-    Thresholding with background:
+  Thresholding with background:
         ![image](https://github.com/Haleshot/Projects/assets/57552973/5d894d79-0800-4ed3-a44b-ce07cba33eb1)
 
-    Thresholding without background:
-       ![image](https://github.com/Haleshot/Projects/assets/57552973/137a155c-6d6b-4797-b099-8135cfed17aa)
-
+  Thresholding without background:
+  ![image](https://github.com/Haleshot/Projects/assets/57552973/137a155c-6d6b-4797-b099-8135cfed17aa)
 
 
 </p>
