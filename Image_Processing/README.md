@@ -121,6 +121,10 @@ continuous function (or density, as in the case of a photograph).
   
 • In down-sampling technique, the number of pixels in the given image is reduced depending 
 on the sampling frequency. Due to this, resolution and size of the image decreases.
+  
+• Output:
+  
+ ![image](https://github.com/Haleshot/Projects/assets/57552973/3411e8eb-9375-4527-9724-441978892c61)
 
 
 
