@@ -48,8 +48,7 @@ enhance our skills in image processing and analysis, as well as gain insights in
 limitations of edge detection techniques.
 
 </p>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<br>
 
 
 <!-- Objectives and Scope -->
