@@ -209,7 +209,7 @@ class Ui_bgWidget(object):
     # Checks if the HaarCasacade Frontal Face Default file exists in the Local Directory as the Project File.
     # This File or the XML file contains a pre-trained model which was created through extensive training and research.
     def check_haarcascadefile(self):
-        exists = os.path.isfile("haarcascade_frontalface_default.xml")
+        exists = os.path.isfile("Facial_Recognition_Attendance_System\haarcascade_frontalface_default.xml")
         exists_1 = os.path.isfile("haarcascade_frontalface_alt_tree.xml")
         exists_2 = os.path.isfile("haarcascade_eye.xml")
         if exists and exists_1 and exists_2:
@@ -279,7 +279,7 @@ class Ui_bgWidget(object):
             print(Id, name) # Displays the Name and ID Entered in the VS Terminal
             if ((name.isalpha()) or (' ' in name)):
                 cam = cv2.VideoCapture(0) # Accessing the Webcam of the User's Device. The 0 is the default value for the in built webcam camera.
-                harcascadePath = "haarcascade_frontalface_default.xml"
+                harcascadePath = "Facial_Recognition_Attendance_System\haarcascade_frontalface_default.xml"
                 detector = cv2.CascadeClassifier(harcascadePath)
                 sampleNum = 0
                 while (True):
@@ -327,7 +327,7 @@ class Ui_bgWidget(object):
         self.check_haarcascadefile() # Checking if the File exists in the Local Directory.
         self.assure_path_exists("TrainingImageLabel/") # Checking if the File exists in the Local Directory.
         recognizer = cv2.face_LBPHFaceRecognizer.create() # The LBPHFaceRecognizer_create is used to train our face recognizer based on the data in the dataset.
-        harcascadePath = "haarcascade_frontalface_default.xml"
+        harcascadePath = "Facial_Recognition_Attendance_System\haarcascade_frontalface_default.xml"
         detector = cv2.CascadeClassifier(harcascadePath)
         faces, ID = self.getImagesAndLabels("TrainingImage") # Accessing the details extracted from the Numpy array and feeding it to Train the Model.
         try:
@@ -364,7 +364,7 @@ class Ui_bgWidget(object):
         else:
             self.Error_Message.setText("Please click on Save Profile to reset data...") # Generating an Pop up Message in the GUI Window to alert the user.
             return
-        harcascadePath = "haarcascade_frontalface_default.xml"
+        harcascadePath = "Facial_Recognition_Attendance_System\haarcascade_frontalface_default.xml"
         faceCascade = cv2.CascadeClassifier(harcascadePath)
 
 
