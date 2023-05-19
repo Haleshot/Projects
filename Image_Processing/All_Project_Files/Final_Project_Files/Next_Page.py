@@ -72,7 +72,7 @@ class Ui_Background(QDialog, object):
 
         self.Note_Label = QLabel(Background)
         self.Note_Label.setObjectName(u"Note_Label")
-        self.Note_Label.setGeometry(QRect(370, 780, 511, 21))
+        self.Note_Label.setGeometry(QRect(23, 780, 1500, 21))
 
         self.retranslateUi(Background)
         QtCore.QMetaObject.connectSlotsByName(Background)
@@ -82,9 +82,7 @@ class Ui_Background(QDialog, object):
         Background.setWindowTitle(_translate("Background", "Dialog"))
         self.Show_Cam_Save_Image_Button.setText(_translate("Background", "Show Camera/Save Image"))
         self.Proceed_Button.setText(_translate("Background", "Proceed"))
-        self.Note_Label.setText(QCoreApplication.translate("Background", u"Note - Proceeding to the Next Page where various operations on the Image can be done.", None))
-
-
+        self.Note_Label.setText(_translate("Background", "<html><head/><body><p><span style=\" color:#ff0000;\">Note - Proceeding to the Next Page where various operations on the Image can be done. It also saves your image in the Self Photos Folder in Cam Media Directory which can be used for the operations.</span></p></body></html>"))
 
 
         global counter # When user clicks on Show Camera/Save Image button, this value will first be -1 as Show Camera is clicked. \

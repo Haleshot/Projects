@@ -81,7 +81,7 @@ background-color: rgb(0, 255, 0);
     </rect>
    </property>
    <property name="text">
-    <string>Note - Proceeding to the Next Page where various operations on the Image can be done.</string>
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff0000;&quot;&gt;Note - Proceeding to the Next Page where various operations on the Image can be done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
    </property>
   </widget>
  </widget>
