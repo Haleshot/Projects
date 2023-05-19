@@ -326,7 +326,8 @@ class Ui_bgWidget(QDialog, object):
             print(Id, name) # Displays the Name and ID Entered in the VS Terminal
             if ((name.isalpha()) or (' ' in name)):
                 cam = cv2.VideoCapture(0) # Accessing the Webcam of the User's Device. The 0 is the default value for the in built webcam camera.
-                harcascadePath = "All_Project_Files\haarcascade_frontalface_default.xml"
+                harcascadePath = "Image_Processing\All_Project_Files\haarcascade_frontalface_default.xml"
+                
 
                 detector = cv2.CascadeClassifier(harcascadePath)
                 sampleNum = 0
@@ -412,7 +413,7 @@ class Ui_bgWidget(QDialog, object):
         else:
             self.Error_Message.setText("Please click on Save Profile to reset data...") # Generating an Pop up Message in the GUI Window to alert the user.
             return
-        harcascadePath = "All_Project_Files\haarcascade_frontalface_default.xml"
+        harcascadePath = "Image_Processing\All_Project_Files\haarcascade_frontalface_default.xml"
         faceCascade = cv2.CascadeClassifier(harcascadePath)
 
 
