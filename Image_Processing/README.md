@@ -18,8 +18,8 @@
     <li><a href="#Conclusion"> ➤ Conclusion </a></li>
   </ol>
 </details>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<br>
+<!--![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png) -->
 
 <!-- Introduction -->
 <h2 id="Introduction"> :pencil: Introduction </h2>
