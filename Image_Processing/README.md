@@ -19,6 +19,7 @@
   </ol>
 </details>
 <br>
+<hr>
 <!--![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png) -->
 
 <!-- Introduction -->
