@@ -15,7 +15,7 @@ from xmlrpc.client import DateTime # To display respective Date and Time for Att
 
 # Important Libraries of PyQt5 to integrate in Python; for the layout of the GUI.
 from PyQt5 import QtCore, QtGui, QtWidgets
-from PyQt5.QtWidgets import QApplication
+from PyQt5.QtWidgets import QApplication, QTableWidgetItem
 from PyQt5.QtWidgets import QLabel  
 from PyQt5.QtWidgets import QWidget
 from PyQt5.QtCore import QCoreApplication, QRect
