@@ -18,7 +18,6 @@
     <li><a href="#Conclusion"> ➤ Conclusion </a></li>
   </ol>
 </details>
-<br>
 <hr>
 <!--![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png) -->
 
@@ -49,7 +48,7 @@ enhance our skills in image processing and analysis, as well as gain insights in
 limitations of edge detection techniques.
 
 </p>
-<br>
+<hr>
 
 
 <!-- Objectives and Scope -->
@@ -68,8 +67,7 @@ variety of user-defined functions as well as built-in functions (LPF, Edge detec
 
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
+<hr>
 
 <!-- Methodology -->
 <h2 id="Methodology"> :cloud: Methodology </h2>
@@ -101,8 +99,7 @@ determine the effectiveness of each technique in edge detection.
 
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
+<hr>
 
 <!-- Down Sampling -->
 <h2 id="Down Sampling"> :small_orange_diamond: Down Sampling </h2>
@@ -131,8 +128,7 @@ on the sampling frequency. Due to this, resolution and size of the image decreas
 
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
+<hr>
 
 
 
@@ -164,8 +160,7 @@ procedure in a mult-irate digital signal processing system.
 
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
+<hr>
 
 
 
@@ -193,8 +188,7 @@ in close proximity or by projecting a negative image onto the paper.
 
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
+<hr>
 
 
 
@@ -226,8 +220,7 @@ and background.
 
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
+<hr>
 
 
 <!-- Blurring -->
@@ -253,8 +246,7 @@ to another smooth rather than sudden.
 
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
+<hr>
 
 
 
@@ -279,8 +271,7 @@ Low Pass Filtering (LPF):
 
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
+<hr>
 
 <!-- Gaussian Noise -->
 <h2 id="Gaussian Noise"> :small_orange_diamond: Gaussian Noise </h2>
@@ -301,8 +292,7 @@ is passed through each pixel of the Region of Interest to get the desired effect
 
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
+<hr>
 
 
 
@@ -330,8 +320,7 @@ Facial feature detection is a computer vision technique that identifies and loca
 
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
+<hr>
 
 <!-- Laplace Edge Detection -->
 <h2 id="Laplacian Filter"> :small_orange_diamond: Laplacian Filter </h2>
@@ -357,8 +346,7 @@ positive.
 
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
+<hr>
 
 
 <!-- Conclusion -->
