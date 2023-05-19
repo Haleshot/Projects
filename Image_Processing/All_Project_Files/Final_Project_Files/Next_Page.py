@@ -122,9 +122,9 @@ class Ui_Background(QDialog, object):
 
                 if counter > 1:
                     self.value += 1
-                    cv2.imwrite("All_Project_Files\Final_Project_Files\Cam_Media\%s.png" %(self.value), frame)
+                    cv2.imwrite("Image_Processing\All_Project_Files\Final_Project_Files\Cam_Media\Self_Photos\%s.png" %(self.value), frame)
                     # If you want the same image to be overwritten everytime you Save the Image, then:
-                    # cv2.imwrite("All_Project_Files\Final_Project_Files\Cam_Media\Image.png", frame)
+                    # cv2.imwrite("Image_Processing\All_Project_Files\Final_Project_Files\Cam_Media\Self_Photos\Image.png", frame)
                     # The image will be overwritten with the name of Image.png
 
                     counter = 1 # Reinitializing the value of logic so that user can click multiple pics.
