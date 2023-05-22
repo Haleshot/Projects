@@ -35,8 +35,13 @@
 <h2 id="Installation"> :pencil: Installation </h2>
 
 <p align="justify"> 
-
-
+  
+ ```sh
+| Method    | Command                                                                                           |
+| :-------- | :------------------------------------------------------------------------------------------------ |
+| **pip**  | `pip install -r requirements.txt "` |
+```
+  
 </p>
 <hr>
 
