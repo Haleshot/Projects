@@ -398,7 +398,7 @@ Click on these badges to see how you might be able to help:
 [![GitHub repo Issues](https://img.shields.io/github/issues/Haleshot/Projects?style=flat&logo=github&logoColor=red&label=Issues)](https://github.com/Haleshot/Projects/issues) [![GitHub repo PRs](https://img.shields.io/github/issues-pr/Haleshot/Projects?style=flat&logo=github&logoColor=orange&label=PRs)](https://github.com/Haleshot/Projects/pulls) [![GitHub repo Merged PRs](https://img.shields.io/github/issues-search/Haleshot/Projects?style=flat&logo=github&logoColor=green&label=Merged%20PRs&query=is%3Amerged)](https://github.com/Haleshot/Projects/pulls?q=is%3Apr+is%3Amerged)
   
   
-  > or if you like it simple:
+Simple terms:
 
 1. `Fork` this repository
 2. Create a `branch`
