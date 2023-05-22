@@ -45,7 +45,7 @@ cd Projects
 ```bash
 git checkout -b <branch-name>
 ```
-**5.** Make changes in source code/ project.
+**5.** Make changes in source code/project.
 
 **6.** Stage your changes and commit
 
