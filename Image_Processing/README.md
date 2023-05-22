@@ -317,6 +317,7 @@ Low Pass Filtering (LPF):
 
 <p align="justify"> 
 Gaussian Noise:
+  
 • A Gaussian Filter is a low pass filter used for reducing noise (high frequency components) 
 and blurring regions of an image.
   
