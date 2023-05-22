@@ -429,7 +429,7 @@ Simple terms:
 
 ### Done ✓
 
-- [x] Add Facial Feature Detection Button.  
+- [✓] Add Facial Feature Detection Button.  
 
 </p>
 <hr>
