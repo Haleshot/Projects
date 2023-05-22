@@ -15,6 +15,7 @@
     <li><a href="#Gaussian Noise"> ➤ Gaussian Noise </a></li>
     <li><a href="#Facial Feature Detection"> ➤ Facial Feature Detection </a></li>
     <li><a href="#Laplacian Filter"> ➤ Laplacian Filter </a></li>
+    <li><a href="#Contributing"> ➤ Contributing </a></li>
     <li><a href="#Conclusion"> ➤ Conclusion </a></li>
   </ol>
 </details>
@@ -378,5 +379,5 @@ Laplacian filter, LPF, HPF, and thresholding.
 
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<hr>
 
