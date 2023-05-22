@@ -352,10 +352,9 @@ positive.
 
 
 <!-- Contributing -->
-<h2 id="Contributing"> :pencil: Contributing </h2>
+<h2 id="Contributing"> Contributing </h2>
 
 <p align="justify"> 
-## How To Contribute
 
 Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welcome](docs/HOWTO.md)! Remember to abide by our adapted from ![Contributor Covenant 1.3](https://img.shields.io/badge/Contributor%20Covenant-1.3-4baaaa.svg) [Code of Conduct](docs/CODE_OF_CONDUCT.md) too ([translations](#translations) also available).
 
