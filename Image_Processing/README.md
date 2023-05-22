@@ -430,7 +430,6 @@ Simple terms:
 ### Done ✓
 
 - [x] Add Facial Feature Detection Button.  
-  - [x] Venus
 
 </p>
 <hr>
