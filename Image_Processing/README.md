@@ -38,8 +38,7 @@
   
  ```sh
 | Method    | Command                                                                                           |
-| :-------- | :------------------------------------------------------------------------------------------------ |
-| **pip**  | `pip install -r requirements.txt "` |
+| **pip**  | `pip install -r requirements.txt` |
 ```
   
 </p>
