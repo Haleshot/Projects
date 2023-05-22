@@ -6,7 +6,8 @@ Read our [Code of Conduct](https://github.com/Haleshot/Projects/blob/master/CODE
 
 In this guide you will get an overview of the contribution workflow from opening an issue, creating a PR, reviewing, and merging the PR.
 
-Use the table of contents icon <img src="/contributing/images/table-of-contents.png" width="25" height="25" /> on the top left corner of this document to get to a specific section of this guide quickly.
+Use the table of contents icon ![image](https://github.com/Haleshot/Projects/assets/57552973/19370d1d-0dac-4013-8839-be97d9a38de8)
+ on the top left corner of this document to get to a specific section of this guide quickly.
 
 ## New contributor guide
 
