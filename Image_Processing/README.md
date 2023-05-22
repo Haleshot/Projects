@@ -16,7 +16,7 @@
     <li><a href="#Facial Feature Detection">  Facial Feature Detection </a></li>
     <li><a href="#Laplacian Filter">  Laplacian Filter </a></li>
     <li><a href="#Contributing">  Contributing </a></li>
-    <li><a href="#Conclusion"> ➤ Conclusion </a></li>
+    <li><a href="#Conclusion"> Conclusion </a></li>
     <!---<li><a href="#Conclusion"> ➤ Conclusion </a></li> -->
   </ol>
 </details>
