@@ -419,17 +419,17 @@ Simple terms:
 
 <p align="justify"> 
 
-- [ ] Work on the website ~3d #feat @john 2020-03-20  
-- [ ] Fix the homepage ~1d #bug @jane  
-  - [ ] Sub-task or description  
+- [ ] Add a Video demo in the form of Gif Link for viewers to easily see the working.
+- [ ] Refine UI more, add Video processing and Erosion/Dilation features  
+  - [ ] PyQt5 Editor
 
 ### In Progress
 
-- [ ] Work on Github Repo [JIRA-345]  
+- [ ] Improve README guides, contributing guides, etc.  
 
 ### Done ✓
 
-- [x] Create my first TODO.md  
+- [x] Add Facial Feature Detection Button.  
 
 </p>
 <hr>
