@@ -369,7 +369,7 @@ Click on these badges to see how you might be able to help:
 
 [![GitHub repo PRs](https://img.shields.io/github/issues-pr/Haleshot/Projects?style=flat&logo=github&logoColor=orange&label=PRs)](https://github.com/Haleshot/Projects/pulls)
   
-[![GitHub repo Merged PRs](https://img.shields.io/github/issues-search/Haleshot/Projects?style=flat&logo=github&logoColor=green&label=Merged%20PRs&query=is%3Amerged)](https://github.com/Haleshot/Projects/pulls?q=is%3Apr+is%3Amerged)&#160;
+[![GitHub repo Merged PRs](https://img.shields.io/github/issues-search/Haleshot/Projects?style=flat&logo=github&logoColor=green&label=Merged%20PRs&query=is%3Amerged)](https://github.com/Haleshot/Projects/pulls?q=is%3Apr+is%3Amerged)
   
 
 </div>
