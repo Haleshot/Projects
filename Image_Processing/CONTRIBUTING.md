@@ -1,6 +1,6 @@
 # Welcome to GitHub docs contributing guide <!-- omit in toc -->
 
-Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [docs.github.com](https://docs.github.com/en) :sparkles:.
+Thank you for investing your time in contributing in my project! <!--Any contribution you make will be reflected on [docs.github.com](https://docs.github.com/en) :sparkles:. --->
 
 Read our [Code of Conduct](https://github.com/Haleshot/Projects/blob/master/CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
 
