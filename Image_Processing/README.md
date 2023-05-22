@@ -36,7 +36,7 @@
 
 See [the contributing guide](CONTRIBUTING.md) for detailed instructions on how to get started with our project.
 <p align="justify"> 
-  Required Libraries:
+  
  ```sh
 pip install -r requirements.txt
 ```
