@@ -6,6 +6,7 @@
     <li><a href="#Introduction">  Introduction </a></li>
     <li><a href="#Objectives and scope">  Objectives and scope </a></li>
     <li><a href="#Methodology">  Methodology </a></li>
+    <ul>
     <li><a href="#Down Sampling">  Down Sampling </a></li>
     <li><a href="#Up Sampling">  Up Sampling </a></li>
     <li><a href="#Negative of an Image">  Negative of an Image </a></li>
@@ -15,6 +16,7 @@
     <li><a href="#Gaussian Noise">  Gaussian Noise </a></li>
     <li><a href="#Facial Feature Detection">  Facial Feature Detection </a></li>
     <li><a href="#Laplacian Filter">  Laplacian Filter </a></li>
+    </ul>
     <li><a href="#Contributing">  Contributing </a></li>
     <li><a href="#Conclusion"> Conclusion </a></li>
     <!---<li><a href="#Conclusion"> ➤ Conclusion </a></li> -->
