@@ -19,6 +19,7 @@
     <li><a href="#Laplacian Filter">  Laplacian Filter </a></li>
     </ul>
     <li><a href="#Contributing">  Contributing </a></li>
+    <li><a href="#ToDo">  To Do </a></li>
     <li><a href="#Conclusion"> Conclusion </a></li>
     <!---<li><a href="#Conclusion"> ➤ Conclusion </a></li> -->
   </ol>
@@ -399,9 +400,6 @@ Click on these badges to see how you might be able to help:
 [![GitHub repo Issues](https://img.shields.io/github/issues/Haleshot/Projects?style=flat&logo=github&logoColor=red&label=Issues)](https://github.com/Haleshot/Projects/issues) [![GitHub repo PRs](https://img.shields.io/github/issues-pr/Haleshot/Projects?style=flat&logo=github&logoColor=orange&label=PRs)](https://github.com/Haleshot/Projects/pulls) [![GitHub repo Merged PRs](https://img.shields.io/github/issues-search/Haleshot/Projects?style=flat&logo=github&logoColor=green&label=Merged%20PRs&query=is%3Amerged)](https://github.com/Haleshot/Projects/pulls?q=is%3Apr+is%3Amerged)
 
 </div>
-
-
-  
   
 Simple terms:
 
@@ -411,11 +409,32 @@ Simple terms:
 4. `Push` your `commits` to the `branch`
 5. Submit a `pull request`
 
+</p>
+<hr>
+
+
+
+<!-- To Do -->
+<h2 id="ToDo"> To Do </h2>
+
+<p align="justify"> 
+
+- [ ] Work on the website ~3d #feat @john 2020-03-20  
+- [ ] Fix the homepage ~1d #bug @jane  
+  - [ ] Sub-task or description  
+
+### In Progress
+
+- [ ] Work on Github Repo [JIRA-345]  
+
+### Done ✓
+
+- [x] Create my first TODO.md  
 
 </p>
-
-
 <hr>
+
+
 
 
 
