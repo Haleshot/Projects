@@ -37,7 +37,7 @@
 <p align="justify"> 
   
  ```sh
-| Method    | Command                                                                                           |
+| Method    | Command |
 | **pip**  | `pip install -r requirements.txt` |
 ```
   
