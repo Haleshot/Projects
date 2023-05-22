@@ -21,8 +21,7 @@
     <li><a href="#Conclusion"> Conclusion </a></li>
     <li><a href="#Contributing">  Contributing </a></li>
     <li><a href="#ToDo">  To Do </a></li>
-    
-    <!---<li><a href="#Conclusion"> ➤ Conclusion </a></li> -->
+   
   </ol>
 </details>
 <hr>
