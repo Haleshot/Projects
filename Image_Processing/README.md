@@ -33,7 +33,7 @@
 
 
 <!-- Installation -->
-<h2 id="Installation"> :pencil: Installation </h2>
+<h2 id="Installation"> 📦: Installation </h2>
 
 See [the contributing guide](CONTRIBUTING.md) for detailed instructions on how to get started with our project.
 <p align="justify"> 
