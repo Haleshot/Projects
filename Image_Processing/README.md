@@ -472,6 +472,7 @@ Simple terms:
 ### In Progress
 
 - [ ] Improve README guides, contributing guides, etc.  
+- [ ] Showing user, which file to run as main file - portraying user flow.
 
 ### Done ✓
 
