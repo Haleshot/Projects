@@ -139,6 +139,7 @@ determine the effectiveness of each technique in edge detection.
 
 <p align="justify"> 
   Down Sampling:
+  
 • The process of resampling in a multi-rate digital signal processing system is referred to as 
 down sampling, compression, and decimation in digital signal processing.
   
@@ -171,6 +172,7 @@ on the sampling frequency. Due to this, resolution and size of the image decreas
 
 <p align="justify"> 
   Up Sampling:
+  
 • Up sampling, expansion, and interpolation are terminologies used to describe the resampling 
 procedure in a mult-irate digital signal processing system.
   
@@ -203,6 +205,7 @@ procedure in a mult-irate digital signal processing system.
 
 <p align="justify"> 
 Negative of an Image:
+  
 • Photographic negative in which the light areas of the subject are reproduced as dark and the 
 dark areas as light.
   
@@ -230,6 +233,7 @@ in close proximity or by projecting a negative image onto the paper.
 
 <p align="justify"> 
 Thresholding:
+  
 • Thresholding is a type of image segmentation, where we change the pixels of an image to 
 make the image easier to analyze.
   
@@ -261,6 +265,7 @@ and background.
 
 <p align="justify"> 
 Blurring an image makes the image look less sharp. 
+  
 • This can be done by smoothing the color transition between the pixels.
   
 • When we blur an image, we make the colour transition from one side of an edge in the image 
@@ -288,6 +293,7 @@ to another smooth rather than sudden.
 
 <p align="justify"> 
 Low Pass Filtering (LPF):
+  
 • It is also known as a smoothing filter. It removes the high frequency content from the image. 
   
 • Example of Low pass averaging filter mask is as shown:
