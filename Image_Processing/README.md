@@ -356,6 +356,20 @@ positive.
 
 <p align="justify"> 
 
+See [the contributing guide](CONTRIBUTING.md) for detailed instructions on how to get started with our project.
+
+We accept different [types of contributions](https://github.com/github/docs/blob/main/contributing/types-of-contributions.md), including some that don't require you to write a single line of code.
+
+On the GitHub Docs site, you can click the make a contribution button at the bottom of the page to open a pull request for quick fixes like typos, updates, or link fixes.
+
+<img src="./contributing/images/contribution_cta.png" width="400">
+
+For more complex contributions, you can open an issue using the most appropriate [issue template](https://github.com/github/docs/issues/new/choose) to describe the changes you'd like to see.
+
+If you're looking for a way to contribute, you can scan through our [existing issues](https://github.com/github/docs/issues) for something to work on. When ready, check out [Getting Started with Contributing](/CONTRIBUTING.md) for detailed instructions.
+
+  
+  
 Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welcome](docs/HOWTO.md)! Remember to abide by our adapted from ![Contributor Covenant 1.3](https://img.shields.io/badge/Contributor%20Covenant-1.3-4baaaa.svg) [Code of Conduct](docs/CODE_OF_CONDUCT.md) too ([translations](#translations) also available).
 
 Click on these badges to see how you might be able to help:
