@@ -352,7 +352,7 @@ positive.
 
 
 <!-- Contributing -->
-<h2 id="Contributing"> :pencil: Introduction </h2>
+<h2 id="Contributing"> :pencil: Contributing </h2>
 
 <p align="justify"> 
 ## How To Contribute
