@@ -21,6 +21,7 @@
     <li><a href="#Conclusion"> Conclusion </a></li>
     <li><a href="#Contributing">  Contributing </a></li>
     <li><a href="#ToDo">  To Do </a></li>
+    <li><a href="#Video Demo">  Video Demo </a></li>
    
   </ol>
 </details>
@@ -466,6 +467,7 @@ Simple terms:
 <p align="justify"> 
 
 - [ ] Add a Video demo in the form of Gif Link for viewers to easily see the working.
+- [ ] Add exceptions to prevent program from crashing when user opens window to select input image but clicks on the close button of the window.
 - [ ] Refine UI more, add Video processing and Erosion/Dilation features  
   - [ ] PyQt5 Editor
 
