@@ -78,10 +78,10 @@ class Ui_Image_Processing_Options(object):
         self.Facial_Feature_Detection_Button.setStyleSheet(u"font: 16pt \"MS Shell Dlg 2\";\n"
 "background-color: rgb(0, 255, 0);\n"
 "")
-        self.Gaussian_Button_2 = QPushButton(Image_Processing_Options)
-        self.Gaussian_Button_2.setObjectName(u"Gaussian_Button_2")
-        self.Gaussian_Button_2.setGeometry(QRect(770, 660, 211, 61))
-        self.Gaussian_Button_2.setStyleSheet(u"font: 16pt \"MS Shell Dlg 2\";\n"
+        self.Laplace_Button = QPushButton(Image_Processing_Options)
+        self.Laplace_Button.setObjectName(u"Laplace_Button")
+        self.Laplace_Button.setGeometry(QRect(770, 660, 211, 61))
+        self.Laplace_Button.setStyleSheet(u"font: 16pt \"MS Shell Dlg 2\";\n"
 "background-color: rgb(0, 255, 0);\n"
 "")
 
@@ -102,6 +102,6 @@ class Ui_Image_Processing_Options(object):
         self.Gaussian_Button.setText(QCoreApplication.translate("Image_Processing_Options", u"Gaussian Noise", None))
         self.Title.setText(QCoreApplication.translate("Image_Processing_Options", u"Image Processing Options:", None))
         self.Facial_Feature_Detection_Button.setText(QCoreApplication.translate("Image_Processing_Options", u"Facial Feature Detection", None))
-        self.Gaussian_Button_2.setText(QCoreApplication.translate("Image_Processing_Options", u"Laplace Edge", None))
+        self.Laplace_Button.setText(QCoreApplication.translate("Image_Processing_Options", u"Laplace Edge", None))
     # retranslateUi
 

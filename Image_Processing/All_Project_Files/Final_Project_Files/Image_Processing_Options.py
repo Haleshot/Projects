@@ -1,3 +1,4 @@
+from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5 import QtCore, QtGui, QtWidgets, uic
 from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
@@ -7,6 +8,7 @@ from PyQt5 import QtWidgets
 from PyQt5.QtWidgets import QDialog, QApplication, QWidget, QStackedWidget, QComboBox, QPushButton, QVBoxLayout, QLabel
 from PyQt5.QtGui import QPixmap
 from PyQt5.QtWidgets import QFileDialog
+
 
 # import files of various UI pages used in the Project (Workflow)
 from Negative_Image_Screen import Ui_Background
@@ -72,32 +74,6 @@ class Ui_Image_Processing_Options(object):
         self.Gaussian_Button.setStyleSheet("font: 16pt \"MS Shell Dlg 2\";\n"
 "background-color: rgb(0, 255, 0);\n"
 "")
-
-
-        
-
-        self.Facial_Feature_Detection_Button = QtWidgets.QPushButton(Image_Processing_Options)
-        self.Facial_Feature_Detection_Button.setGeometry(QtCore.QRect(120, 675, 380, 61))
-        
-        self.Facial_Feature_Detection_Button.setStyleSheet("font: 16pt \"MS Shell Dlg 2\";\n"
-"background-color: rgb(0, 255, 0);\n"
-"")
-        self.Facial_Feature_Detection_Button.setObjectName("Facial_Feature_Detection_Button")
-        
-
-
-
-        self.Laplace_Button = QtWidgets.QPushButton(Image_Processing_Options)
-        self.Laplace_Button.setGeometry(QtCore.QRect(770, 675, 211, 61))
-        
-        self.Laplace_Button.setStyleSheet("font: 16pt \"MS Shell Dlg 2\";\n"
-"background-color: rgb(0, 255, 0);\n"
-"")
-        self.Laplace_Button.setObjectName("Laplace_Button")
-
-
-
-
         self.Gaussian_Button.setObjectName("Gaussian_Button")
         self.Title = QtWidgets.QLabel(Image_Processing_Options)
         self.Title.setGeometry(QtCore.QRect(330, 60, 571, 71))
@@ -105,6 +81,18 @@ class Ui_Image_Processing_Options(object):
 "")
         self.Title.setAlignment(QtCore.Qt.AlignCenter)
         self.Title.setObjectName("Title")
+        self.Facial_Feature_Detection_Button = QtWidgets.QPushButton(Image_Processing_Options)
+        self.Facial_Feature_Detection_Button.setGeometry(QtCore.QRect(110, 660, 366, 61))
+        self.Facial_Feature_Detection_Button.setStyleSheet("font: 16pt \"MS Shell Dlg 2\";\n"
+"background-color: rgb(0, 255, 0);\n"
+"")
+        self.Facial_Feature_Detection_Button.setObjectName("Facial_Feature_Detection_Button")
+        self.Laplace_Button = QtWidgets.QPushButton(Image_Processing_Options)
+        self.Laplace_Button.setGeometry(QtCore.QRect(770, 660, 211, 61))
+        self.Laplace_Button.setStyleSheet("font: 16pt \"MS Shell Dlg 2\";\n"
+"background-color: rgb(0, 255, 0);\n"
+"")
+        self.Laplace_Button.setObjectName("Laplace_Button")
 
         self.retranslateUi(Image_Processing_Options)
         QtCore.QMetaObject.connectSlotsByName(Image_Processing_Options)
@@ -120,11 +108,9 @@ class Ui_Image_Processing_Options(object):
         self.Blur_Button.setText(_translate("Image_Processing_Options", "Apply Blurring"))
         self.LPF_Button.setText(_translate("Image_Processing_Options", "LPF"))
         self.Gaussian_Button.setText(_translate("Image_Processing_Options", "Gaussian Noise"))
-        self.Facial_Feature_Detection_Button.setText(_translate("Image_Processing_Options", "Facial Feature Detection Button"))
-        self.Laplace_Button.setText(_translate("Image_Processing_Options", "Laplace Button"))
-
         self.Title.setText(_translate("Image_Processing_Options", "Image Processing Options:"))
-
+        self.Facial_Feature_Detection_Button.setText(_translate("Image_Processing_Options", "Facial Feature Detection"))
+        self.Laplace_Button.setText(_translate("Image_Processing_Options", "Laplace Edge"))
 
 
         # When user clicks the Down Sampling button:
@@ -249,10 +235,6 @@ class Ui_Image_Processing_Options(object):
 
         # When running in this file, it is working but running the Main File prompts the error - Background is not defined.
         self.window.show()
-    
-
-
-
 
 
 if __name__ == "__main__":
