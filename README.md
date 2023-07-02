@@ -1,6 +1,6 @@
 # Table of Contents
 
-1. [Introduction](#projects-introduction)
+1. [Introduction](#project-introduction)
 2. [Projects](#projects)
 3. [Getting Started](#getting-started)
 4. [Contributing](#contributing)
