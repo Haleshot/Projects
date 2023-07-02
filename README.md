@@ -1,10 +1,10 @@
-# PyQt5 Projects
+# Projects
 
 This repository contains a collection of projects created using PyQt5, a Python binding for the Qt application framework. Each project is designed to showcase different features and functionalities of PyQt5.
 
 # Table of Contents
 
-1. [PyQt5 Projects](#pyqt5-projects)
+1. [PyQt5 Projects](#projects)
 2. [Projects](#projects)
 3. [Getting Started](#getting-started)
 4. [Contributing](#contributing)
