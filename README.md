@@ -1,3 +1,13 @@
+# Table of Contents
+
+1. [Projects](#projects-intro)
+2. [Projects](#projects)
+3. [Getting Started](#getting-started)
+4. [Contributing](#contributing)
+5. [License](#license)
+
+
+
 # Projects Introduction
 
 ## Projects Repository
@@ -14,13 +24,6 @@ Feel free to navigate through the projects table and explore each project's indi
 
 Thank you for visiting the Projects Repository, and I look forward to sharing more exciting projects with you in the future!
 
-# Table of Contents
-
-1. [Projects](#projects-intro)
-2. [Projects](#projects)
-3. [Getting Started](#getting-started)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 
 ## Projects
