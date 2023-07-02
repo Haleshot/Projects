@@ -8,9 +8,7 @@
 
 
 
-# Projects Introduction
-
-## Projects Repository
+## Projects Introcuction
 
 Welcome to the Projects Repository!
 
