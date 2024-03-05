@@ -7,7 +7,6 @@
 5. [License](#license)
 
 
-
 ## Project Introduction
 
 Welcome to the Projects Repository!
@@ -21,7 +20,6 @@ As new projects are added to the repository, the README file will be regularly u
 Feel free to navigate through the projects table and explore each project's individual repository for more detailed information. I hope you find these projects informative and inspiring as you delve into the world of software development.
 
 Thank you for visiting the Projects Repository, and I look forward to sharing more exciting projects with you in the future!
-
 
 
 ## Projects
