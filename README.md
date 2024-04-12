@@ -33,7 +33,7 @@ Thank you for visiting the Projects Repository, and I look forward to sharing mo
 
 ## Getting Started
 
-To get started with any of the projects, follow the steps provided in their respective README files:
+To get started with any of the projects, follow the steps provided in the respective project README files:
 
 ## Contributing
 
