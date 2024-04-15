@@ -51,5 +51,5 @@ If you would like to contribute to this repository, please follow these guidelin
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use the code for educational and personal purposes.
+This repository is licensed under the [MIT License](LICENSE). Feel free to use the code for educational, personal purposes, etc.
 
