@@ -13,7 +13,7 @@ Welcome to the Projects Repository!
 
 This repository serves as a centralized hub for all my projects and applications. Here, you will find a collection of various projects that I have developed and will continue to develop in the future. The primary goal of this repository is to showcase my programming skills, project development expertise, and the tools and technologies I have utilized in each project.
 
-The README file in this repository acts as a comprehensive guide, providing an organized overview of all the projects included. The table format within the README presents each project in a structured manner, including a serial number, project title, a brief description of the project's objectives, the tools used in its development, and a repository link for more details.
+The README file in this repository acts as a comprehensive guide, providing an organized overview of all the projects included. 
 
 As new projects are added to the repository, the README file will be regularly updated, ensuring that all my work is easily accessible and well-documented in a user-friendly format. Whether you are interested in exploring a specific project or browsing through the entire collection, this repository will provide a comprehensive view of my development journey.
 
