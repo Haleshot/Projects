@@ -17,7 +17,7 @@ The README file in this repository acts as a comprehensive guide, providing an o
 
 As new projects are added to the repository, the README file will be regularly updated, ensuring that all my work is easily accessible and well-documented in a user-friendly format. Whether you are interested in exploring a specific project or browsing through the entire collection, this repository will provide a comprehensive view of my development journey.
 
-Feel free to navigate through the projects table and explore each project's individual repository for more detailed information. I hope you find these projects informative and inspiring as you delve into the world of software development.
+Feel free to navigate through the projects table and explore each project's individual repository for more detailed information. I hope you find these projects informative and inspiring as you delve into the world of SDE, AI, ML, etc.
 
 More projects to be updated soon...
 
