@@ -6,8 +6,6 @@
 4. [Contributing](#contributing)
 5. [License](#license)
 
-
-
 ## Project Introduction
 
 Welcome to the Projects Repository!
@@ -22,8 +20,6 @@ Feel free to navigate through the projects table and explore each project's indi
 
 Thank you for visiting the Projects Repository, and I look forward to sharing more exciting projects with you in the future!
 
-
-
 ## Projects
 
 | Serial Number | Project Title | Description | Tools Used | Repository Link |
@@ -31,7 +27,6 @@ Thank you for visiting the Projects Repository, and I look forward to sharing mo
 | 1             | Attendance System using Facial Recognition System | Attendance system using facial recognition system. Utilizes haarcascade classifiers for face detection and recognition. Stores attendance in Excel files and generates training images for face detection. | OpenCV, Haarcascade classifiers, Excel, Python, PyQt5 | [Attendance System](https://github.com/Haleshot/attendance-system) |
 | 2             | Flight Ticket Booking Management System | Flight ticket booking management system with Python and MySQL connectivity. Provides user-friendly GUI using PyQt5 library. Features include user accounts, OTP verification, flight details, and payment and cancellation functionalities. | Python, PyQt5, MySQL, Twilio | [Flight Booking System](https://github.com/Haleshot/Flight_Booking_System) |
 | 3             | Image Processing - Edge Detection | Edge detection project using the Laplacian filter and other image processing techniques such as LPF, HPF, and thresholding. Implements these techniques and analyzes results using various test images. | OpenCV, Python, PyQt5 | [Image Processing](https://github.com/Haleshot/Image_Processing) |
-
 
 ## Getting Started
 
