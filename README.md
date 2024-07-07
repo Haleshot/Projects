@@ -12,7 +12,7 @@
 
 Welcome to the Projects Repository!
 
-This repository serves as a centralized hub for all my projects and applications. Here, you will find a collection of various projects that I have developed and will continue to develop in the future. The primary goal of this repository is to showcase my programming skills, project development expertise, and the tools and technologies I have utilized in each project.
+This repository serves as a centralized hub for all my projects and applications. Here, you will find a collection of various projects that I have developed and will continue to develop in the future. The primary goal of this repository is to showcase my programming skills, project development expertise, and the tools, frameworks, libraries and technologies I have utilized in each project.
 
 The README file in this repository acts as a comprehensive guide, providing an organized overview of all the projects included. 
 
