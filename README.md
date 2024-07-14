@@ -48,7 +48,7 @@ If you would like to contribute to this repository, please follow these guidelin
 
 4. Push your changes to your forked repository.
 
-5. Submit a pull request with a clear description of your changes.
+5. Submit a [pull request](https://github.com/Haleshot/Projects/pulls) with a clear description of your changes.
 
 ## License
 
