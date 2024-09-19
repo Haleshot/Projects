@@ -26,11 +26,14 @@ Thank you for visiting the Projects Repository, and I look forward to sharing mo
 
 ## Projects
 
+
 | Serial Number | Project Title | Description | Tools Used | Repository Link |
 |---------------|---------------|-------------|------------|-----------------|
-| 1             | Attendance System using Facial Recognition System | Attendance system using facial recognition system. Utilizes haarcascade classifiers for face detection and recognition. Stores attendance in Excel files and generates training images for face detection. | OpenCV, Haarcascade classifiers, Excel, Python, PyQt5 | [Attendance System](https://github.com/Haleshot/Attendance_System) |
-| 2             | Flight Ticket Booking Management System | Flight ticket booking management system with Python and MySQL connectivity. Provides user-friendly GUI using PyQt5 library. Features include user accounts, OTP verification, flight details, and payment and cancellation functionalities. | Python, PyQt5, MySQL, Twilio | [Flight Booking System](https://github.com/Haleshot/Flight_Booking_System) |
-| 3             | Image Processing - Edge Detection | Edge detection project using the Laplacian filter and other image processing techniques such as LPF, HPF, and thresholding. Implements these techniques and analyzes results using various test images. | OpenCV, Python, PyQt5 | [Image Processing](https://github.com/Haleshot/Image_Processing) |
+| 1 | Attendance System using Facial Recognition | Attendance system using facial recognition system. Utilizes haarcascade classifiers for face detection and recognition. Stores attendance in Excel files and generates training images for face detection. | OpenCV, Python, PyQt5 | [Attendance System](https://github.com/Haleshot/Attendance_System) |
+| 2 | Flight Ticket Booking Management System | Flight ticket booking management system with Python and MySQL connectivity. Provides user-friendly GUI using PyQt5 library. Features include user accounts, OTP verification, flight details, and payment and cancellation functionalities. | Python, PyQt5, MySQL | [Flight Booking System](https://github.com/Haleshot/Flight_Booking_System) |
+| 3 | Image Processing - Edge Detection | Edge detection project using the Laplacian filter and other image processing techniques such as LPF, HPF, and thresholding. Implements these techniques and analyzes results using various test images. | OpenCV, Python, PyQt5 | [Image Processing](https://github.com/Haleshot/Image_Processing) |
+| 4 | Object Detection and Classification Project (YOLOv8 + PyTorch + CV2) | Web app for detecting and classifying objects in videos/images using YOLOv8 and PyTorch. | Flask, PyTorch, YOLOv8, OpenCV | [Object Detection](https://github.com/Haleshot/Object_Detection) |
+
 
 ## Getting Started
 
