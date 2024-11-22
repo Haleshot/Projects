@@ -33,6 +33,7 @@ Thank you for visiting the Projects Repository, and I look forward to sharing mo
 | 2 | Flight Ticket Booking Management System | Flight ticket booking management system with Python and MySQL connectivity. Provides user-friendly GUI using PyQt5 library. Features include user accounts, OTP verification, flight details, and payment and cancellation functionalities. | Python, PyQt5, MySQL | [Flight Booking System](https://github.com/Haleshot/Flight_Booking_System) |
 | 3 | Image Processing - Edge Detection | Edge detection project using the Laplacian filter and other image processing techniques such as LPF, HPF, and thresholding. Implements these techniques and analyzes results using various test images. | OpenCV, Python, PyQt5 | [Image Processing](https://github.com/Haleshot/Image_Processing) |
 | 4 | Object Detection and Classification Project (YOLOv8 + PyTorch + CV2) | Web app for detecting and classifying objects in videos/images using YOLOv8 and PyTorch. | Flask, PyTorch, YOLOv8, OpenCV | [Object Detection](https://github.com/Haleshot/Object_Detection) |
+| 5 | MathMate - Multi-Modal AI for Mathematical Learning | A multi-modal AI assistant that integrates computer vision, natural language processing, and speech recognition technologies. The system will be accessible through a user-friendly chatbot interface, allowing users to interact with it using text, images, or voice inputs. | Finetuned-merged-LLM + Lightnnig.ai + Openweb-UI | [Capstone Project](https://github.com/Haleshot/Capstone_Project/) |
 
 
 ## Getting Started
